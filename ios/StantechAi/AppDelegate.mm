@@ -6,6 +6,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+  // [GMSServices provideAPIKey:@"AIzaSyCSIGXr_aynzJubKTQ7QLbpCDrFu52XK2Y"]; 
+
   self.moduleName = @"StantechAi";
   // You can add your custom initial props in the dictionary below.
   // They will be passed down to the ViewController used by React Native.
